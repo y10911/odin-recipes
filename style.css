@@ -1,0 +1,23 @@
+/* Styles */
+
+@font-face {
+    font-family: 'Jockey One';
+    src: url('fonts/JockeyOne-Regular.ttf') format('truetype');
+}
+
+body {
+    background-color: rgba(63, 63, 155, 0.30);
+}
+
+.title-container {
+    width: 100%;
+    margin: auto;
+    text-align: center;
+}
+
+.title {
+    font-family: 'Jockey One';
+    color: rgba(63, 63, 155, 1);
+    font-size: 80px;
+    line-height: normal;
+}
